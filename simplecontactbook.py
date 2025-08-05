@@ -1,4 +1,4 @@
-# contact_book.py
+# simplecontactbook.py
 
 # This program is a simple command-line contact book application.
 # It allows a user to add, view, and search for contacts.
@@ -75,4 +75,5 @@ while True:
         break
     else:
         # Handles any invalid input from the user.
+
         print("Invalid choice. Please try again.")
