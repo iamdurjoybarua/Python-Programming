@@ -1,4 +1,4 @@
-# factorial_calculator.py
+# factorialcalculator.py
 
 # This program calculates the factorial of a non-negative integer using two different methods:
 # an iterative approach and a recursive approach.
@@ -44,4 +44,5 @@ try:
     print(f"Factorial of {number} (recursive): {factorial_recursive(number)}")
 
 except ValueError:
+
     print("Invalid input. Please enter a valid non-negative integer.")
