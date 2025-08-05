@@ -51,15 +51,3 @@ Invalid input. Please enter a number.
 Enter your guess: 62
 Congratulations! You guessed the number in 4 attempts.
 ```
-
----
-
-##  Potential Enhancements:
-
-- Add a feature to let the user set the range for the secret number (e.g., between 1 and 1000).
-
-- Implement a limited number of attempts to make the game more challenging.
-
-- Provide a "Play Again?" option at the end of the game.
-
-- Use a function to encapsulate the game logic, making the code more organized.
