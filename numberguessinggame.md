@@ -1,4 +1,4 @@
-# numberguessinggame.py
+# Number Guessing Game
 
 This program is a classic number guessing game. The computer chooses a random number, and the user must guess it. The game provides hints after each guess, telling the user if their guess was too high or too low.
 
