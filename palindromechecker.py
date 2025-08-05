@@ -1,4 +1,4 @@
-# palindrome_checker.py
+# palindromechecker.py
 
 # This program checks if a user-provided word or phrase is a palindrome.
 # A palindrome is a sequence that reads the same backward as forward.
@@ -26,4 +26,5 @@ if is_palindrome(user_input):
     print(f"'{user_input}' is a palindrome.")
 else:
     # If the function returns False, print a message stating it's not a palindrome.
+
     print(f"'{user_input}' is not a palindrome.")
