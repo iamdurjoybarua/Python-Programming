@@ -1,4 +1,4 @@
-# factorialcalculator.py
+Factorial Calculator
 
 This program calculates the factorial of a non-negative integer. It serves as a great example for demonstrating two different fundamental approaches to solving a problem: an iterative method and a recursive method.
 
