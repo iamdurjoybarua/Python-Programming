@@ -1,4 +1,4 @@
-# guess_the_number.py
+# numberguessinggame.py
 
 # This program is a classic number guessing game. The computer picks a random number,
 # and the user tries to guess it.
@@ -35,4 +35,5 @@ while guess != secret_number:
     except ValueError:
         # This block catches the ValueError if the user enters something that can't be
         # converted to an integer, preventing the program from crashing.
+
         print("Invalid input. Please enter a number.")
