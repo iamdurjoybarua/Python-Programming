@@ -8,7 +8,7 @@ Welcome to the Foundational Python Programs repository — a beginner-friendly c
 
 ### 🧠 Basic Concepts
 
-###1. simplecalculator.py — Simple Calculator**  
+### 1.  `simplecalculator.py` — Simple Calculator  
 A basic command-line calculator that takes two numbers and an operator (+, -, *, /) as input.  
 **Concepts:** Functions, user input, if-elif-else conditions.
 
