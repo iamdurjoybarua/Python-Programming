@@ -12,19 +12,19 @@ Welcome to the Foundational Python Programs repository — a beginner-friendly c
 A basic command-line calculator that takes two numbers and an operator (+, -, *, /) as input.  
 **Concepts:** Functions, user input, if-elif-else conditions.
 
-###2. `numberguessinggame.py` — Number Guessing Game  
+### 2. `numberguessinggame.py` — Number Guessing Game  
 A simple game where the user guesses a randomly generated number. The program provides hints like "Too high!" or "Too low!".  
 **Concepts:** random module, while loop, input validation with try-except.
 
-###3. palindromechecker.py — Palindrome Checker 
+### 3. `palindromechecker.py` — Palindrome Checker 
 Checks if a word or phrase is a palindrome, ignoring spaces and case differences.  
 **Concepts:** String manipulation, slicing, and logical comparisons.
 
-###4. fibonaccigenerator.py — Fibonacci Sequence Generator 
+### 4. `fibonaccigenerator.py` — Fibonacci Sequence Generator 
 Generates a Fibonacci sequence up to a specified number of terms.  
 **Concepts:** Loops, variable assignment, and sequence generation.
 
-###5. primenumber.py — Prime Number Checker  
+### 5. `primenumber.py` — Prime Number Checker  
 Determines if a number is a prime number.  
 **Concepts:** Conditional logic, for loops, and mathematical operators.
 
@@ -32,19 +32,19 @@ Determines if a number is a prime number.
 
 ### 🛠️ Practical Applications
 
-###6. passwordgenerator.py — Password Generator 
+### 6. `passwordgenerator.py` — Password Generator 
 Creates a random, secure password of a specified length using a mix of letters, numbers, and symbols.  
 **Concepts:** random module, string module, and function usage.
 
-###7. unitconverter.py — Unit Converter 
+### 7. `unitconverter.py` — Unit Converter 
 A program that converts between different units of measurement (e.g., miles to kilometers).  
 **Concepts:** Dictionaries, functions, and user input.
 
-###8. todolist.py — To-Do List Application
+### 8. `todolist.py` — To-Do List Application
 A command-line tool for managing a to-do list with options to add, view, and mark tasks as complete.  
 **Concepts:** Lists, dictionaries, functions, and menu-driven programs.
 
-###9. fileorganizer.py — File Organizer 
+### 9. `fileorganizer.py` — File Organizer 
 Sorts files in a specified directory into new folders based on their file extension.  
 **Concepts:** os module, shutil module, file system operations.
 
@@ -52,15 +52,15 @@ Sorts files in a specified directory into new folders based on their file extens
 
 ### 🚀 Advanced Examples
 
-###10. simplewebscraper.py — Simple Web Scraper 
+### 10. `simplewebscraper.py` — Simple Web Scraper 
 Extracts data, such as headings, from a website using the requests and BeautifulSoup libraries.  
 **Concepts:** requests library, BeautifulSoup library, and web data parsing.
 
-###11. imageresizer.py — Image Resizer
+### 11. `imageresizer.py` — Image Resizer
 Resizes an image to a new dimension and saves it. Requires the Pillow library.  
 **Concepts:** Pillow (PIL) library, file handling, and image manipulation.
 
-###12. BasicGUIwithTkinter.py — Basic GUI with Tkinter 
+### 12. `BasicGUIwithTkinter.py` — Basic GUI with Tkinter 
 A simple graphical application that calculates the area of a rectangle.  
 **Concepts:** tkinter module, event handling, and GUI programming.
 
