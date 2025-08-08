@@ -1,47 +1,68 @@
 # Foundational Python Programs
 
-Welcome to the **Foundational Python Programs** repository — a beginner-friendly collection of simple Python scripts that demonstrate core programming concepts through small, self-contained projects. Perfect for students, self-learners, or anyone getting started with Python!
+Welcome to the Foundational Python Programs repository — a beginner-friendly collection of simple Python scripts that demonstrate core programming concepts through small, self-contained projects. This repository is perfect for students, self-learners, or anyone getting started with Python! 🚀
 
 ---
 
 ## Programs Included
 
-### 1.  `simplecalculator.py` — Simple Calculator
-- Takes two numbers and an operator (`+`, `-`, `*`, `/`) as input.
-- Performs the selected arithmetic operation.
-- **Concepts Covered:** Functions, user input, `if-elif-else` conditions.
+### 🧠 Basic Concepts
 
+**simplecalculator.py — Simple Calculator**  
+A basic command-line calculator that takes two numbers and an operator (+, -, *, /) as input.  
+**Concepts:** Functions, user input, if-elif-else conditions.
 
----
+**numberguessinggame.py — Number Guessing Game**  
+A simple game where the user guesses a randomly generated number. The program provides hints like "Too high!" or "Too low!".  
+**Concepts:** random module, while loop, input validation with try-except.
 
-### 2.  `numberguessinggame.py` — Number Guessing Game
-- Randomly generates a number; user must guess it.
-- Hints provided: _"Too high!"_ or _"Too low!"_
-- **Concepts Covered:** `random` module, `while` loop, input validation with `try-except`.
+**palindromechecker.py — Palindrome Checker**  
+Checks if a word or phrase is a palindrome, ignoring spaces and case differences.  
+**Concepts:** String manipulation, slicing, and logical comparisons.
 
+**fibonacci_generator.py — Fibonacci Sequence Generator**  
+Generates a Fibonacci sequence up to a specified number of terms.  
+**Concepts:** Loops, variable assignment, and sequence generation.
 
----
-
-### 3.  `palindromechecker.py` — Palindrome Checker
-- Checks if a word/phrase is a palindrome.
-- Ignores spaces and case differences.
-- **Concepts Covered:** String manipulation, slicing, logic building.
-
-
----
-
-### 4.  `factorialcalculator.py` — Factorial Calculator
-- Calculates the factorial of a non-negative integer.
-- Provides **both** iterative and recursive solutions.
-- **Concepts Covered:** Recursion, iteration, base case understanding.
-
+**prime_number_checker.py — Prime Number Checker**  
+Determines if a number is a prime number.  
+**Concepts:** Conditional logic, for loops, and mathematical operators.
 
 ---
 
-### 5.  `simplecontactbook.py` — Simple Contact Book
-- CLI-based contact book: Add, view, and search contacts.
-- Stores data in a Python dictionary.
-- **Concepts Covered:** Dictionaries, functions, loops, menu-driven programs.
+### 🛠️ Practical Applications
+
+**password_generator.py — Password Generator**  
+Creates a random, secure password of a specified length using a mix of letters, numbers, and symbols.  
+**Concepts:** random module, string module, and function usage.
+
+**unit_converter.py — Unit Converter**  
+A program that converts between different units of measurement (e.g., miles to kilometers).  
+**Concepts:** Dictionaries, functions, and user input.
+
+**todo_list_app.py — To-Do List Application**  
+A command-line tool for managing a to-do list with options to add, view, and mark tasks as complete.  
+**Concepts:** Lists, dictionaries, functions, and menu-driven programs.
+
+**file_organizer.py — File Organizer**  
+Sorts files in a specified directory into new folders based on their file extension.  
+**Concepts:** os module, shutil module, file system operations.
+
+---
+
+### 🚀 Advanced Examples
+
+**simple_web_scraper.py — Simple Web Scraper**  
+Extracts data, such as headings, from a website using the requests and BeautifulSoup libraries.  
+**Concepts:** requests library, BeautifulSoup library, and web data parsing.
+
+**image_resizer.py — Image Resizer**  
+Resizes an image to a new dimension and saves it. Requires the Pillow library.  
+**Concepts:** Pillow (PIL) library, file handling, and image manipulation.
+
+**basic_gui.py — Basic GUI with Tkinter**  
+A simple graphical application that calculates the area of a rectangle.  
+**Concepts:** tkinter module, event handling, and GUI programming.
 
 
 ---
